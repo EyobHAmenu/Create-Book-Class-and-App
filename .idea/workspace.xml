@@ -54,6 +54,12 @@
       <change afterPath="$PROJECT_DIR$/../ComparingStrings/ComparingStrings.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ComparingStrings/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ComparingStrings/src/CompStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComputeMowingTime/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComputeMowingTime/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComputeMowingTime/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComputeMowingTime/ComputeMowingTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComputeMowingTime/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComputeMowingTime/src/MowingTime.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DictionaryWord/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DictionaryWord/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DictionaryWord/.idea/modules.xml" afterDir="false" />
@@ -81,6 +87,12 @@
       <change afterPath="$PROJECT_DIR$/../FixError/src/Debug.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FizzBuzz/FizzBuzz.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FizzBuzz/src/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunWithArrayLists/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunWithArrayLists/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunWithArrayLists/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunWithArrayLists/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunWithArrayLists/FunWithArrayLists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FunWithArrayLists/src/FunWithArrayLists.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../GameofDice/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../GameofDice/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../GameofDice/.idea/modules.xml" afterDir="false" />
@@ -131,6 +143,12 @@
       <change afterPath="$PROJECT_DIR$/../NestedforLoopActivity/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NestedforLoopActivity/NestedforLoopActivity.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../NestedforLoopActivity/src/NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PairOfNumbers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PairOfNumbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PairOfNumbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PairOfNumbers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PairOfNumbers/PairOfNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PairOfNumbers/src/BlackJack.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../RandomDebugging/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../RandomDebugging/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../RandomDebugging/.idea/modules.xml" afterDir="false" />
@@ -149,6 +167,12 @@
       <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/ReplaceCommonWord.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/src/replaceWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShapesArea/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShapesArea/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShapesArea/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShapesArea/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShapesArea/ShapesArea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShapesArea/src/Area.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SimpleElizaApplication/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SimpleElizaApplication/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SimpleElizaApplication/.idea/modules.xml" afterDir="false" />
@@ -198,14 +222,6 @@
       <change afterPath="$PROJECT_DIR$/../Whatdoesthiscodedo/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Whatdoesthiscodedo/Whatdoesthiscodedo.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Whatdoesthiscodedo/src/MortgageCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-BookClassandApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BookApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Complet_If" beforeDir="false" afterPath="$PROJECT_DIR$/../Complet_If" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CreatApp" beforeDir="false" afterPath="$PROJECT_DIR$/../CreatApp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DebugArray/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DebugArray/.idea/vcs.xml" afterDir="false" />
@@ -213,6 +229,12 @@
       <change beforePath="$PROJECT_DIR$/../GuessGame/src/guessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessGame/src/guessGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Positive_Negative" beforeDir="false" afterPath="$PROJECT_DIR$/../Positive_Negative" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../myfirstjava" beforeDir="false" afterPath="$PROJECT_DIR$/../myfirstjava" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop-BookClassandApp/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/oop-BookClassandApp/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/oop-BookClassandApp/BookApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/oop-BookClassandApp/BookApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BookApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BookApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +249,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bGzc1ZwaXfLonZrm4zmXZiNBtK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -273,7 +295,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588273293197</updated>
-      <workItem from="1588273294863" duration="4830000" />
+      <workItem from="1588273294863" duration="5923000" />
+      <workItem from="1588342452287" duration="6115000" />
     </task>
     <servers />
   </component>
@@ -290,27 +313,36 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1588274025404">
+    <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1588352935733">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1588274025404" />
-    <state width="1398" height="371" key="GridCell.Tab.0.bottom" timestamp="1588277489126">
+    <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1588352935733" />
+    <state width="1398" height="263" key="GridCell.Tab.0.bottom" timestamp="1588355006561">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="518" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588353205297" />
+    <state width="1398" height="263" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588355006561" />
+    <state width="1398" height="263" key="GridCell.Tab.0.center" timestamp="1588355006560">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="518" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588353205295" />
+    <state width="1398" height="263" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588355006560" />
+    <state width="1398" height="263" key="GridCell.Tab.0.left" timestamp="1588355006559">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="518" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588353205295" />
+    <state width="1398" height="263" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588355006559" />
+    <state width="1398" height="263" key="GridCell.Tab.0.right" timestamp="1588355006561">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="518" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588353205296" />
+    <state width="1398" height="263" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588355006561" />
+    <state x="88" y="72" key="new project wizard" timestamp="1588299260025">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="371" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588277489126" />
-    <state width="1398" height="371" key="GridCell.Tab.0.center" timestamp="1588277489125">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="371" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588277489125" />
-    <state width="1398" height="371" key="GridCell.Tab.0.left" timestamp="1588277489125">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="371" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588277489125" />
-    <state width="1398" height="371" key="GridCell.Tab.0.right" timestamp="1588277489126">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="371" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588277489126" />
+    <state x="88" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1588299260025" />
   </component>
 </project>
